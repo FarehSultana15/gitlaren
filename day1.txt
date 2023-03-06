@@ -1,2 +1,36 @@
 farehmoni
 abcdefghijklmnopqrstuvwxyz
+
+day 2 work list
+learn git create
+
+open cmd
+then write mkdir foldername
+cd foldername
+echo>day1.txt
+day1.txt enter
+write some meeningful word
+then save
+local pc work
+git init
+git status
+git add .
+git status
+git commit -m "day 1"
+git config user.name
+git config user.email
+
+remote work
+click + new repository
+give meningful repo name then create repository button
+----understand purpose
+git remote add origin https://github.com/FarehSultana15/gitlaren.git
+git branch -M main
+git push -u origin main
+then past this 3 statement step by step
+
+---check connection
+git remote
+
+git log --oneline
+
